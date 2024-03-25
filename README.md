@@ -5,7 +5,7 @@ Welcome to my GitHub playground! 🚀
 ## About Me
 - **Pronouns:** He/Him
 - **Interests:** Web development 🌐
-- **Currently Learning:** Next.js 🚀
+- **Currently Learning:** Golang & Next.js 🚀
 - **Looking to Collaborate:** Web development projects 💻
 
 ## Let's Connect!
