@@ -12,12 +12,7 @@ Welcome to my GitHub playground! 🚀
 - 📧 **Email:** [ramadiaz221@gmail.com](mailto:ramadiaz221@gmail.com)
 - 📷 **Instagram:** [@ramadiazr](https://www.instagram.com/ramadiazr/)
 
-## Fun Fact
-Did you know? I'm an ailurophile! 🐾 (That's a cat lover for those wondering)
-
-Feel free to explore my repositories, and don't hesitate to reach out if you have any cool projects or just want to chat about web development, gaming, or anything else! Let's create something awesome together! 🌟
-
-### Progressive Stats Report:
+## Progressive Stats Report:
 
 | **Github Stats** | **Top Languages** |
 | --- | --- |
