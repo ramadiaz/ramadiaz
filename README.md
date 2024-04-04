@@ -16,3 +16,6 @@ Welcome to my GitHub playground! 🚀
 Did you know? I'm an ailurophile! 🐾 (That's a cat lover for those wondering)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any cool projects or just want to chat about web development, gaming, or anything else! Let's create something awesome together! 🌟
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadiaz)](https://github.com/anuraghazra/github-readme-stats)
