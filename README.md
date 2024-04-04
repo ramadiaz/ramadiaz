@@ -19,3 +19,4 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=ramadiaz&theme=transparent&show_icons=true&hide_border=true)](https://github.com/saifurrahman1193)
 [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ramadiaz&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=transparent&hide_border=true&show_icons=true)](https://github.com/saifurrahman1193)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ramadiaz?ext=activity&theme=nord)](https://leetcode.com/saifurrahman1193)
