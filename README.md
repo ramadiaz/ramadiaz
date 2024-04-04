@@ -2,8 +2,9 @@
 
 Welcome to my GitHub playground! 🚀
 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,go,mysql,php)](https://skillicons.dev)
+
 ## About Me
-- **Pronouns:** He/Him
 - **Interests:** Web development 🌐
 - **Currently Learning:** Golang & Next.js 🚀
 - **Looking to Collaborate:** Web development projects 💻
