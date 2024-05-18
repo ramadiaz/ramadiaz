@@ -17,5 +17,5 @@ Welcome to my GitHub playground! 🚀
 
 | **Github Stats** | **Top Languages** |
 | --- | --- |
-| [![Top Langs](https://raw.githubusercontent.com/ramadiaz/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/ramadiaz) | [![Xan's GitHub stats](https://github-readme-stats-six-umber-99.vercel.app/api/top-langs?username=ramadiaz&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,hack,visual%20basic%206.0,handlebars,plsql&theme=transparent&show_icons=true&hide_border=true)](https://github.com/ramadiaz) |
+| [![Stats](https://raw.githubusercontent.com/ramadiaz/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/ramadiaz) | [![Top Langs](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/ramadiaz) |
 
