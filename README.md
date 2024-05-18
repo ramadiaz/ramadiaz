@@ -17,5 +17,5 @@ Welcome to my GitHub playground! 🚀
 
 | **Github Stats** | **Top Languages** |
 | --- | --- |
-| [![Stats](https://raw.githubusercontent.com/ramadiaz/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/ramadiaz) | [![Top Langs](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/ramadiaz) |
+| [![Stats](https://raw.githubusercontent.com/ramadiaz/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/ramadiaz) | [![Top Langs](https://raw.githubusercontent.com/ramadiaz/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/ramadiaz) |
 
