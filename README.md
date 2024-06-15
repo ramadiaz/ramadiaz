@@ -2,7 +2,7 @@
 
 Welcome to my GitHub playground! 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,go,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,go,react,js,ts,tailwind,mysql,php)](https://skillicons.dev)
 
 ## About Me
 - **Interests:** Web development 🌐
