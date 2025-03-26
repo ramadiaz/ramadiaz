@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Rama Diaz, aka Xanny 🎮
+# Hey there! 👋 I'm Rama Diaz, aka Xanny 🎮 
 
 Welcome to my GitHub playground! 🚀
 
